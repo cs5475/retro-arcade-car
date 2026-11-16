@@ -1,0 +1,4 @@
+# Only the addons folder is installed from the Godot Asset Library.
+/**        export-ignore
+/addons    !export-ignore
+/addons/** !export-ignore
